@@ -21,6 +21,10 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
   - `Responders_Reactive`, `response_tolerant.txt`, `Cl18_upR.txt`, `Up_in_CR_PMID36555441.txt`, `up_R_PMID38969631.txt`
 
 ---
+### Environment
+conda create -n bone-fig5 python=3.10 -y
+conda activate bone-fig5
+pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow opencv-python jupyter
 
 ### Clone
 
@@ -30,9 +34,6 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
 git clone https://github.com/sinha7290/Mullick_et_al..git
 cd Mullick_et_al.
 ---
-### Environment
-conda create -n bone-fig5 python=3.10 -y
-conda activate bone-fig5
-pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow opencv-python jupyter
+
 
 
