@@ -22,8 +22,6 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
 
 ---
 
-## 1) Setup
-
 ### Clone
 
 **Note:** the repository name ends with a dot: `Mullick_et_al.`
