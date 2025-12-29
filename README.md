@@ -5,7 +5,7 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
 - **I**: Dot plot (bubble plot) summarizing enrichment of **endocytosis / clathrin-mediated trafficking** signatures in TAMs.
 - **J**: **Violin plots** comparing BoNE composite scores for selected endocytic/clathrin signatures in TAMs.
 
-> **Main entry point:** `Fig 5_TAM_PD1.ipynb`
+**Main entry point:** `Fig 5_TAM_PD1.ipynb`
 
 ---
 
