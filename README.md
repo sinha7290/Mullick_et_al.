@@ -23,9 +23,6 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
 ---
 
 ## 1) Setup
-conda create -n bone-fig5 python=3.10 -y
-conda activate bone-fig5
-pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow opencv-python jupyter
 
 ### 1.1 Clone
 
@@ -34,5 +31,10 @@ pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow o
 ```bash
 git clone https://github.com/sinha7290/Mullick_et_al..git
 cd Mullick_et_al.
+
+### 1.2 Environment
+conda create -n bone-fig5 python=3.10 -y
+conda activate bone-fig5
+pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow opencv-python jupyter
 ---
 
