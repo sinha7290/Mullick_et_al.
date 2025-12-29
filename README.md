@@ -22,9 +22,9 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
 
 ---
 ### Environment
-conda create -n bone-fig5 python=3.10 -y
-conda activate bone-fig5
-pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow opencv-python jupyter
+-  conda create -n bone-fig5 python=3.10 -y
+-  conda activate bone-fig5
+-  pip install numpy pandas scipy matplotlib seaborn scikit-learn requests pillow opencv-python jupyter
 
 ### Clone
 
