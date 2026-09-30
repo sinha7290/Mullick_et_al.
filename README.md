@@ -34,6 +34,3 @@ This repository contains the **BoNE (Boolean Network Explorer)** workflow used t
 git clone https://github.com/sinha7290/Mullick_et_al..git
 cd Mullick_et_al.
 ---
-
-
-
